@@ -1,0 +1,1388 @@
+[
+    {
+        "id": 0,
+        "type": "Furnitures",
+        "newArrival": "new",
+        "title": "Sofas",
+        "price": "$8000",
+        "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
+        "brand": "Habbit",
+        "image": "../../../public/img/sofa-(1).jpeg"
+    },
+    {
+        "id": 1,
+        "type": "Furnitures",
+        "title": "Sofas",
+        "price": "$8000",
+        "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
+        "brand": "Habbit",
+        "image": "../../../public/img/sofa-(2).jpeg"
+    },
+    {
+        "id": 2,
+        "type": "Furnitures",
+        "newArrival": "new",
+        "title": "Sofas",
+        "price": "$8000",
+        "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
+        "brand": "Habbit",
+        "image": "../../../public/img/sofa3.jpeg"
+    },
+    {
+        "id": 3,
+        "type": "Furnitures",
+        "title": "Couches",
+        "price": "$8000",
+        "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
+        "brand": "Habbit",
+        "image": "../../../public/img/couches (1).jpeg"
+    },
+    {
+        "id": 4,
+        "type": "Furnitures",
+        "title": "Couches",
+        "price": "$8000",
+        "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
+        "brand": "Habbit",
+        "image": "../../../public/img/couches (2).jpeg"
+    },
+    {
+        "id": 5,
+        "type": "Furnitures",
+        "title": "Couches",
+        "newArrival": "new",
+        "price": "$8000",
+        "description": "Sofas are the heart of any living space, providing comfort and a gathering spot for family and friends. They come in various styles, from sleek modern designs to plush, traditional silhouettes, catering to diverse tastes and preferences.",
+        "brand": "Habbit",
+        "image": "../../../public/img/couches (3).jpeg"
+    },
+    
+    {
+        "id": 6,
+        "type": "Furnitures",
+        "title": "Chairs",
+        "newArrival": "new",
+        "price": "$5000",
+        "description": "Chairs are versatile essentials that blend functionality with design, making them integral to any space. Whether it’s a sleek office chair boosting productivity, a cozy armchair inviting relaxation, or a stylish dining chair enhancing mealtime conversations, each type serves a unique purpose.",
+        "brand": "Habbit",
+        "image": "../../../public/img/chairs (1).jpeg"
+    },
+    {
+        "id": 7,
+        "type": "Furnitures",
+        "title": "Chairs",
+        "price": "$8000",
+        "description": "Chairs are versatile essentials that blend functionality with design, making them integral to any space. Whether it’s a sleek office chair boosting productivity, a cozy armchair inviting relaxation, or a stylish dining chair enhancing mealtime conversations, each type serves a unique purpose.",
+        "brand": "Habbit",
+        "image": "../../../public/img/chairs (2).jpeg"
+    },
+    {
+        "id": 8,
+        "type": "Furnitures",
+        "title": "Chairs",
+        "price": "$2000",
+        "description": "Chairs are versatile essentials that blend functionality with design, making them integral to any space. Whether it’s a sleek office chair boosting productivity, a cozy armchair inviting relaxation, or a stylish dining chair enhancing mealtime conversations, each type serves a unique purpose.",
+        "brand": "Habbit",
+        "image": "../../../public/img/chairs (3).jpeg"
+    },
+    {
+        "id": 9,
+        "type": "Furnitures",
+        "title": "Recliners",
+        "price": "$5000",
+        "description": "Chairs are versatile essentials that blend functionality with design, making them integral to any space. Whether it’s a sleek office chair boosting productivity, a cozy armchair inviting relaxation, or a stylish dining chair enhancing mealtime conversations, each type serves a unique purpose.",
+        "brand": "Habbit",
+        "image": "../../../public/img/Recliners (1).jpeg"
+    },
+    {
+        "id": 10,
+        "type": "Furnitures",
+        "title": "Recliners",
+        "price": "$3000",
+        "description": "Chairs are versatile essentials that blend functionality with design, making them integral to any space. Whether it’s a sleek office chair boosting productivity, a cozy armchair inviting relaxation, or a stylish dining chair enhancing mealtime conversations, each type serves a unique purpose.",
+        "brand": "Habbit",
+        "image": "../../../public/img/Recliners (2).jpeg"
+    },
+    {
+        "id": 11,
+        "type": "Furnitures",
+        "title": "Recliners",
+        "price": "$2000",
+        "description": "Chairs are versatile essentials that blend functionality with design, making them integral to any space. Whether it’s a sleek office chair boosting productivity, a cozy armchair inviting relaxation, or a stylish dining chair enhancing mealtime conversations, each type serves a unique purpose.",
+        "brand": "Habbit",
+        "image": "../../../public/img/Recliners (3).jpeg"
+    },
+    {
+        "id": 12,
+        "type": "Furnitures",
+        "title": "Tables",
+        "newArrival": "new",
+        "price": "$2000",
+        "description": "Dining tables are the heart of mealtime gatherings, providing a space for family and friends to connect and share experiences. Available in various shapes, sizes, and materials, they can suit any decor style, from rustic farmhouse to sleek modern designs. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Dining (1).jpeg"
+    },
+    {
+        "id": 13,
+        "type": "Furnitures",
+        "title": "Tables",
+        "price": "$6000",
+        "description": "Dining tables are the heart of mealtime gatherings, providing a space for family and friends to connect and share experiences. Available in various shapes, sizes, and materials, they can suit any decor style, from rustic farmhouse to sleek modern designs. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Dining (2).jpeg"
+    },
+    {
+        "id": 14,
+        "type": "Furnitures",
+        "title": "Tables",
+        "price": "$6000",
+        "description": "Dining tables are the heart of mealtime gatherings, providing a space for family and friends to connect and share experiences. Available in various shapes, sizes, and materials, they can suit any decor style, from rustic farmhouse to sleek modern designs. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Dining (3).jpeg"
+    },
+    {
+        "id": 15,
+        "type": "Furnitures",
+        "title": "Tables",
+        "price": "$8000",
+        "description": "Dining tables are the heart of mealtime gatherings, providing a space for family and friends to connect and share experiences. Available in various shapes, sizes, and materials, they can suit any decor style, from rustic farmhouse to sleek modern designs. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Dining (4).jpeg"
+    },
+    {
+        "id": 16,
+        "type": "Furnitures",
+        "title": "Tables",
+        "price": "$4000",
+        "description": "Dining tables are the heart of mealtime gatherings, providing a space for family and friends to connect and share experiences. Available in various shapes, sizes, and materials, they can suit any decor style, from rustic farmhouse to sleek modern designs. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Dining (5).jpeg"
+    },
+    {
+        "id": 17,
+        "type": "Furnitures",
+        "title": "Tables",
+        "price": "$2000",
+        "description": "Dining tables are the heart of mealtime gatherings, providing a space for family and friends to connect and share experiences. Available in various shapes, sizes, and materials, they can suit any decor style, from rustic farmhouse to sleek modern designs. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Sidetable (1).jpeg"
+    },
+    {
+        "id": 18,
+        "type": "Furnitures",
+        "title": "Tables",
+        "price": "$3000",
+        "description": "Coffee tables are versatile pieces of furniture that enhance both functionality and style in a living space. Typically placed in front of sofas or seating areas, they provide a convenient surface for drinks, snacks, and decorative items.",
+        "brand": "Habbit",
+        "image": "../../../public/img/Sidetable (2).jpeg"
+    },
+    {
+        "id": 19,
+        "type": "Furnitures",
+        "title": "Tables",
+        "price": "$5000",
+        "description": "Coffee tables are versatile pieces of furniture that enhance both functionality and style in a living space. Typically placed in front of sofas or seating areas, they provide a convenient surface for drinks, snacks, and decorative items.",
+        "brand": "Habbit",
+        "image": "../../../public/img/Sidetable (3).jpeg"
+    },
+    {
+        "id": 20,
+        "type": "Furnitures",
+        "title": "Tables",
+        "price": "$7000",
+        "description": "Coffee tables are versatile pieces of furniture that enhance both functionality and style in a living space. Typically placed in front of sofas or seating areas, they provide a convenient surface for drinks, snacks, and decorative items.",
+        "brand": "Habbit",
+        "image": "../../../public/img/Sidetable (4).jpeg"
+    },
+    {
+        "id": 21,
+        "type": "Furnitures",
+        "title": "Beds",
+        "price": "$7000",
+        "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
+        "brand": "Habbit",
+        "image": "../../../public/img/beds (1).jpeg"
+    },
+    {
+        "id": 22,
+        "type": "Furnitures",
+        "title": "Beds",
+        "price": "$5000",
+        "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
+        "brand": "Habbit",
+        "image": "../../../public/img/beds (2).jpeg"
+    },
+    {
+        "id": 23,
+        "type": "Furnitures",
+        "title": "Beds",
+        "price": "$2000",
+        "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
+        "brand": "Habbit",
+        "image": "../../../public/img/beds (3).jpeg"
+    },
+    {
+        "id": 24,
+        "type": "Furnitures",
+        "title": "Mattresses",
+        "price": "$9000",
+        "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
+        "brand": "Habbit",
+        "image": "../../../public/img/mettress (1).jpeg"
+    },
+    {
+        "id": 25,
+        "type": "Furnitures",
+        "title": "Mattresses",
+        "price": "$2000",
+        "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
+        "brand": "Habbit",
+        "image": "../../../public/img/mettress (1).jpeg"
+    },
+    {
+        "id": 26,
+        "type": "Furnitures",
+        "title": "Mattresses",
+        "price": "$9000",
+        "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
+        "brand": "Habbit",
+        "image": "../../../public/img/mettress (3).jpeg"
+    },
+    {
+        "id": 27,
+        "type": "Furnitures",
+        "title": "Cabinets",
+        "price": "$4000",
+        "description": "Cabinets are essential storage solutions that enhance both organization and aesthetics in any space. Available in various styles, materials, and sizes, they serve multiple functions, from kitchen and bathroom storage to displaying decorative items in living areas.",
+        "brand": "Habbit",
+        "image": "../../../public/img/cabinets (1).jpeg"
+    },
+    {
+        "id": 28,
+        "type": "Furnitures",
+        "title": "Cabinets",
+        "price": "$3000",
+        "description": "Cabinets are essential storage solutions that enhance both organization and aesthetics in any space. Available in various styles, materials, and sizes, they serve multiple functions, from kitchen and bathroom storage to displaying decorative items in living areas.",
+        "brand": "Habbit",
+        "image": "../../../public/img/cabinets (2).jpeg"
+    },
+    {
+        "id": 29,
+        "type": "Furnitures",
+        "title": "Cabinets",
+        "price": "$2000",
+        "description": "Cabinets are essential storage solutions that enhance both organization and aesthetics in any space. Available in various styles, materials, and sizes, they serve multiple functions, from kitchen and bathroom storage to displaying decorative items in living areas.",
+        "brand": "Habbit",
+        "image": "../../../public/img/cabinets (3).jpeg"
+    },
+    {
+        "id": 30,
+        "type": "Furnitures",
+        "title": "Cabinets",
+        "price": "5000",
+        "description": "Cabinets are essential storage solutions that enhance both organization and aesthetics in any space. Available in various styles, materials, and sizes, they serve multiple functions, from kitchen and bathroom storage to displaying decorative items in living areas.",
+        "brand": "Habbit",
+        "image": "../../../public/img/cabinets (4).jpeg"
+    },
+    {
+        "id": 31,
+        "type": "Furnitures",
+        "title": "Shelves",
+        "price": "$7000",
+        "description": "Shelves are versatile storage solutions that enhance organization and display in any room. They can be mounted on walls or freestanding, providing a platform for books, decorative items, and everyday essentials. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Shelves (1).jpeg"
+    },
+    {
+        "id": 32,
+        "type": "Furnitures",
+        "title": "Shelves",
+        "price": "$4000",
+        "description": "Shelves are versatile storage solutions that enhance organization and display in any room. They can be mounted on walls or freestanding, providing a platform for books, decorative items, and everyday essentials. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Shelves (2).jpeg"
+    },
+    {
+        "id": 33,
+        "type": "Furnitures",
+        "title": "Shelves",
+        "newArrival": "new",
+        "price": "$7000",
+        "description": "Shelves are versatile storage solutions that enhance organization and display in any room. They can be mounted on walls or freestanding, providing a platform for books, decorative items, and everyday essentials. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Shelves (3).jpeg"
+    },
+    {
+        "id": 34,
+        "type": "Furnitures",
+        "title": "Dressers",
+        "price": "$2000",
+        "description": "Shelves are versatile storage solutions that enhance organization and display in any room. They can be mounted on walls or freestanding, providing a platform for books, decorative items, and everyday essentials. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Dressers (1).jpeg"
+    },
+    {
+        "id": 35,
+        "type": "Furnitures",
+        "title": "Dressers",
+        "price": "$5000",
+        "description": "Dressers are essential furniture pieces that combine style and functionality, providing ample storage for clothing and personal items. Typically featuring multiple drawers, they help organize garments while keeping spaces tidy and clutter-free.  ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Dressers (2).jpeg"
+    },
+    {
+        "id": 36,
+        "type": "Furnitures",
+        "title": "Dressers",
+        "price": "$4000",
+        "description": "Dressers are essential furniture pieces that combine style and functionality, providing ample storage for clothing and personal items. Typically featuring multiple drawers, they help organize garments while keeping spaces tidy and clutter-free.  ",
+        "brand": "Habbit",
+        "image": "../../../public/img/Dressers (3).jpeg"
+    },
+    {
+        "id": 37,
+        "type": "Lightning",
+        "title": "Celing Lights",
+        "price": "$9000",
+        "description": "Ceiling lights are essential fixtures that illuminate a space while enhancing its overall aesthetic. Available in a variety of styles, from sleek and modern chandeliers to understated flush mounts, they can complement any decor. ",
+        "brand": "Samsung",
+        "image": "../../../public/img/Ceiling light/cl1.jpeg"
+    },
+    {
+        "id": 38,
+        "type": "Lightning",
+        "title": "Celing Lights",
+        "price": "$8000",
+        "description": "Ceiling lights are essential fixtures that illuminate a space while enhancing its overall aesthetic. Available in a variety of styles, from sleek and modern chandeliers to understated flush mounts, they can complement any decor. ",
+        "brand": "Samsung",
+        "image": "../../../public/img/Ceiling light/cl2.jpeg"
+    },
+    {
+        "id": 39,
+        "type": "Lightning",
+        "title": "Celing Lights",
+        "price": "$2000",
+        "description": "Ceiling lights are essential fixtures that illuminate a space while enhancing its overall aesthetic. Available in a variety of styles, from sleek and modern chandeliers to understated flush mounts, they can complement any decor. ",
+        "brand": "Samsung",
+        "image": "../../../public/img/Ceiling light/cl3.jpeg"
+    },
+    {
+        "id": 40,
+        "type": "Lightning",
+        "title": "Celing Lights",
+        "price": "$2000",
+        "description": "Ceiling lights are essential fixtures that illuminate a space while enhancing its overall aesthetic. Available in a variety of styles, from sleek and modern chandeliers to understated flush mounts, they can complement any decor. ",
+        "brand": "Samsung",
+        "image": "../../../public/img/Ceiling light/cl4.jpeg"
+    },
+    {
+        "id": 41,
+        "type": "Lightning",
+        "title": "Celing Lights",
+        "price": "$6000",
+        "description": "Ceiling lights are essential fixtures that illuminate a space while enhancing its overall aesthetic. Available in a variety of styles, from sleek and modern chandeliers to understated flush mounts, they can complement any decor. ",
+        "brand": "Samsung",
+        "image": "../../../public/img/Ceiling light/cl5.jpeg"
+    },
+    {
+        "id": 42,
+        "type": "Lightning",
+        "title": "Celing Lights",
+        "price": "$9000",
+        "description": "Ceiling lights are essential fixtures that illuminate a space while enhancing its overall aesthetic. Available in a variety of styles, from sleek and modern chandeliers to understated flush mounts, they can complement any decor. ",
+        "brand": "Samsung",
+        "image": "../../../public/img/wall light/wl1.jpeg"
+    },
+    {
+        "id": 43,
+        "type": "Lightning",
+        "title": "Wall Lights",
+        "price": "$5000",
+        "description": "Wall lights are versatile fixtures that add both illumination and character to any space. Installed at various heights, they can highlight artwork, create ambiance, or provide focused lighting in areas like hallways and reading nooks.  ",
+        "brand": "Samsung",
+        "image": "../../../public/img/wall light/wl1.jpeg"
+    },
+    {
+        "id": 44,
+        "type": "Lightning",
+        "title": "Wall Lights",
+        "price": "$4000",
+        "description": "Wall lights are versatile fixtures that add both illumination and character to any space. Installed at various heights, they can highlight artwork, create ambiance, or provide focused lighting in areas like hallways and reading nooks.  ",
+        "brand": "Samsung",
+        "image": "../../../public/img/wall light/wl2.jpeg"
+    },
+    {
+        "id": 45,
+        "type": "Lightning",
+        "title": "Wall Lights",
+        "price": "$9000",
+        "description": "Wall lights are versatile fixtures that add both illumination and character to any space. Installed at various heights, they can highlight artwork, create ambiance, or provide focused lighting in areas like hallways and reading nooks.  ",
+        "brand": "Samsung",
+        "image": "../../../public/img/wall light/wl3.jpeg"
+    },
+    {
+        "id": 46,
+        "type": "Lightning",
+        "title": "Wall Lights",
+        "price": "$7000",
+        "description": "Wall lights are versatile fixtures that add both illumination and character to any space. Installed at various heights, they can highlight artwork, create ambiance, or provide focused lighting in areas like hallways and reading nooks.  ",
+        "brand": "Samsung",
+        "image": "../../../public/img/wall light/wl4.jpeg"
+    },
+    {
+        "id": 47,
+        "type": "Lightning",
+        "title": "Wall Lights",
+        "price": "$3000",
+        "description": "Wall lights are versatile fixtures that add both illumination and character to any space. Installed at various heights, they can highlight artwork, create ambiance, or provide focused lighting in areas like hallways and reading nooks.  ",
+        "brand": "Samsung",
+        "image": "../../../public/img/wall light/wl5.jpeg"
+    },
+    {
+        "id": 48,
+        "type": "Lightning",
+        "title": "Wall Lights",
+        "price": "$5000",
+        "description": "Wall lights are versatile fixtures that add both illumination and character to any space. Installed at various heights, they can highlight artwork, create ambiance, or provide focused lighting in areas like hallways and reading nooks.  ",
+        "brand": "Samsung",
+        "image": "../../../public/img/wall light/wl1.jpeg"
+    },
+    {
+        "id": 49,
+        "type": "Lightning",
+        "title": "Floor Lamps",
+        "price": "$8000",
+        "description": "Floor lamps are stylish lighting solutions that enhance the ambiance of any room while providing functional illumination. Standing tall and often adjustable, they can fit into various spaces, from cozy reading corners to expansive living areas.",
+        "brand": "Samsung",
+        "image": "../../../public/img/floor lamps/FL1.jpeg"
+    },
+    {
+        "id": 50,
+        "type": "Lightning",
+        "title": "Floor Lamps",
+        "price": "$5000",
+        "description": "Floor lamps are stylish lighting solutions that enhance the ambiance of any room while providing functional illumination. Standing tall and often adjustable, they can fit into various spaces, from cozy reading corners to expansive living areas.",
+        "brand": "Samsung",
+        "image": "../../../public/img/floor lamps/FL2.jpeg"
+    },
+    {
+        "id": 51,
+        "type": "Lightning",
+        "title": "Floor Lamps",
+        "price": "$3000",
+        "description": "Floor lamps are stylish lighting solutions that enhance the ambiance of any room while providing functional illumination. Standing tall and often adjustable, they can fit into various spaces, from cozy reading corners to expansive living areas.",
+        "brand": "Samsung",
+        "image": "../../../public/img/floor lamps/FL3.jpeg"
+    },
+    {
+        "id": 52,
+        "type": "Lightning",
+        "title": "Floor Lamps",
+        "price": "$3000",
+        "description": "Floor lamps are stylish lighting solutions that enhance the ambiance of any room while providing functional illumination. Standing tall and often adjustable, they can fit into various spaces, from cozy reading corners to expansive living areas.",
+        "brand": "Samsung",
+        "image": "../../../public/img/floor lamps/FL4.jpeg"
+    },
+    {
+        "id": 53,
+        "type": "Lightning",
+        "title": "Floor Lamps",
+        "price": "$9000",
+        "description": "Floor lamps are stylish lighting solutions that enhance the ambiance of any room while providing functional illumination. Standing tall and often adjustable, they can fit into various spaces, from cozy reading corners to expansive living areas.",
+        "brand": "Samsung",
+        "image": "../../../public/img/floor lamps/FL5.jpeg"
+    },
+    {
+        "id": 54,
+        "type": "Lightning",
+        "title": "Floor Lamps",
+        "price": "$8000",
+        "description": "Floor lamps are stylish lighting solutions that enhance the ambiance of any room while providing functional illumination. Standing tall and often adjustable, they can fit into various spaces, from cozy reading corners to expansive living areas.",
+        "brand": "Samsung",
+        "image": "../../../public/img/floor lamps/FL1.jpeg"
+    },
+    {
+        "id": 55,
+        "type": "Lightning",
+        "title": "Table Lamps",
+        "price": "$3000",
+        "description": "Table lamps are essential accent pieces that combine functionality with style, providing focused lighting for various activities such as reading, working, or creating ambiance. Typically placed on desks, nightstands, or side tables, they come in a diverse range of designs, from sleek modern silhouettes to ornate vintage styles.",
+        "brand": "Samsung",
+        "image": "../../../public/img/table lamps/TL1.jpeg"
+    },
+    {
+        "id": 56,
+        "type": "Lightning",
+        "title": "Table Lamps",
+        "price": "$5000",
+        "description": "Table lamps are essential accent pieces that combine functionality with style, providing focused lighting for various activities such as reading, working, or creating ambiance. Typically placed on desks, nightstands, or side tables, they come in a diverse range of designs, from sleek modern silhouettes to ornate vintage styles.",
+        "brand": "Samsung",
+        "image": "../../../public/img/table lamps/TL2.jpeg"
+    },
+    {
+        "id": 57,
+        "type": "Lightning",
+        "title": "Table Lamps",
+        "price": "$9000",
+        "description": "Table lamps are essential accent pieces that combine functionality with style, providing focused lighting for various activities such as reading, working, or creating ambiance. Typically placed on desks, nightstands, or side tables, they come in a diverse range of designs, from sleek modern silhouettes to ornate vintage styles.",
+        "brand": "Samsung",
+        "image": "../../../public/img/table lamps/TL3.jpeg"
+    },
+    {
+        "id": 58,
+        "type": "Lightning",
+        "title": "Table Lamps",
+        "price": "$2000",
+        "description": "Table lamps are essential accent pieces that combine functionality with style, providing focused lighting for various activities such as reading, working, or creating ambiance. Typically placed on desks, nightstands, or side tables, they come in a diverse range of designs, from sleek modern silhouettes to ornate vintage styles.",
+        "brand": "Samsung",
+        "image": "../../../public/img/table lamps/TL4.jpeg"
+    },
+    {
+        "id": 59,
+        "type": "Lightning",
+        "title": "Table Lamps",
+        "price": "$8000",
+        "description": "Table lamps are essential accent pieces that combine functionality with style, providing focused lighting for various activities such as reading, working, or creating ambiance. Typically placed on desks, nightstands, or side tables, they come in a diverse range of designs, from sleek modern silhouettes to ornate vintage styles.",
+        "brand": "Samsung",
+        "image": "../../../public/img/table lamps/TL5.jpeg"
+    },
+    {
+        "id": 60,
+        "type": "Lightning",
+        "title": "Table Lamps",
+        "price": "$2000",
+        "description": "Table lamps are essential accent pieces that combine functionality with style, providing focused lighting for various activities such as reading, working, or creating ambiance. Typically placed on desks, nightstands, or side tables, they come in a diverse range of designs, from sleek modern silhouettes to ornate vintage styles.",
+        "brand": "Samsung",
+        "image": "../../../public/img/table lamps/TL1.jpeg"
+    },
+    {
+        "id": 61,
+        "type": "Lightning",
+        "title": "Outdoor Lighting",
+        "price": "$4000",
+        "description": "Outdoor lighting plays a crucial role in enhancing the safety, security, and aesthetic appeal of outdoor spaces. From illuminating pathways and driveways to highlighting architectural features and landscaping, well-placed outdoor lights create a welcoming atmosphere for gatherings and nighttime enjoyment.",
+        "brand": "Samsung",
+        "image": "../../../public/img/outdoor lighting/OL1.jpeg"
+    },
+    {
+        "id": 62,
+        "type": "Lightning",
+        "title": "Outdoor Lighting",
+        "price": "$2000",
+        "description": "Outdoor lighting plays a crucial role in enhancing the safety, security, and aesthetic appeal of outdoor spaces. From illuminating pathways and driveways to highlighting architectural features and landscaping, well-placed outdoor lights create a welcoming atmosphere for gatherings and nighttime enjoyment.",
+        "brand": "Samsung",
+        "image": "../../../public/img/outdoor lighting/OL3.jpeg"
+    },
+    {
+        "id": 63,
+        "type": "Lightning",
+        "title": "Outdoor Lighting",
+        "price": "$9000",
+        "description": "Outdoor lighting plays a crucial role in enhancing the safety, security, and aesthetic appeal of outdoor spaces. From illuminating pathways and driveways to highlighting architectural features and landscaping, well-placed outdoor lights create a welcoming atmosphere for gatherings and nighttime enjoyment.",
+        "brand": "Samsung",
+        "image": "../../../public/img/outdoor lighting/OL1.jpeg"
+    },
+    {
+        "id": 64,
+        "type": "Lightning",
+        "title": "Outdoor Lighting",
+        "price": "$7000",
+        "description": "Outdoor lighting plays a crucial role in enhancing the safety, security, and aesthetic appeal of outdoor spaces. From illuminating pathways and driveways to highlighting architectural features and landscaping, well-placed outdoor lights create a welcoming atmosphere for gatherings and nighttime enjoyment.",
+        "brand": "Samsung",
+        "image": "../../../public/img/outdoor lighting/OL5.jpeg"
+    },
+    {
+        "id": 65,
+        "type": "Lightning",
+        "title": "Outdoor Lighting",
+        "price": "$6000",
+        "description": "Outdoor lighting plays a crucial role in enhancing the safety, security, and aesthetic appeal of outdoor spaces. From illuminating pathways and driveways to highlighting architectural features and landscaping, well-placed outdoor lights create a welcoming atmosphere for gatherings and nighttime enjoyment.",
+        "brand": "Samsung",
+        "image": "../../../public/img/outdoor lighting/OL1.jpeg"
+    },
+    {
+        "id": 66,
+        "type": "Lightning",
+        "title": "Outdoor Lighting",
+        "price": "$6000",
+        "description": "Outdoor lighting plays a crucial role in enhancing the safety, security, and aesthetic appeal of outdoor spaces. From illuminating pathways and driveways to highlighting architectural features and landscaping, well-placed outdoor lights create a welcoming atmosphere for gatherings and nighttime enjoyment.",
+        "brand": "Samsung",
+        "image": "../../../public/img/outdoor lighting/OL3.jpeg"
+    },
+    {
+        "id": 67,
+        "type": "Decor",
+        "title": "Rugs",
+        "price": "$8000",
+        "description": "Transform your space with the perfect rug that combines style, comfort, and practicality! Our stunning collection features a variety of designs, from luxurious plush textures to vibrant patterns that make a statement. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/rugs/R2.PNG"
+    },
+    {
+        "id": 68,
+        "type": "Decor",
+        "title": "Rugs",
+        "price": "$2000",
+        "description": "Transform your space with the perfect rug that combines style, comfort, and practicality! Our stunning collection features a variety of designs, from luxurious plush textures to vibrant patterns that make a statement. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/rugs/R3.PNG"
+    },
+    {
+        "id": 69,
+        "type": "Decor",
+        "title": "Rugs",
+        "price": "$9000",
+        "description": "Transform your space with the perfect rug that combines style, comfort, and practicality! Our stunning collection features a variety of designs, from luxurious plush textures to vibrant patterns that make a statement. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/rugs/R4.PNG"
+    },
+    {
+        "id": 70,
+        "type": "Decor",
+        "title": "Carpets",
+        "price": "$2000",
+        "description": "Transform your space with the perfect rug that combines style, comfort, and practicality! Our stunning collection features a variety of designs, from luxurious plush textures to vibrant patterns that make a statement. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/CARPETS/CARPET1.PNG"
+    },
+    {
+        "id": 71,
+        "type": "Decor",
+        "title": "Carpets",
+        "price": "$9000",
+        "description": "Transform your space with the perfect rug that combines style, comfort, and practicality! Our stunning collection features a variety of designs, from luxurious plush textures to vibrant patterns that make a statement. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/CARPETS/CARPET2.PNG"
+    },
+    {
+        "id": 72,
+        "type": "Decor",
+        "title": "Carpets",
+        "price": "$6000",
+        "description": "Transform your space with the perfect rug that combines style, comfort, and practicality! Our stunning collection features a variety of designs, from luxurious plush textures to vibrant patterns that make a statement. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/CARPETS/CARPET3.PNG"
+    },
+    {
+        "id": 73,
+        "type": "Decor",
+        "title": "Curtains",
+        "price": "$7000",
+        "description": "Elevate your home's style and ambiance with our beautiful collection of curtains! Designed to enhance any room, our curtains come in a variety of colors, patterns, and fabrics to suit your unique taste and decor.",
+        "brand": "Habbit",
+        "image": "../../../public/img/CURTAINS/C1.PNG"
+    },
+    {
+        "id": 74,
+        "type": "Decor",
+        "title": "Curtains",
+        "price": "$8000",
+        "description": "Elevate your home's style and ambiance with our beautiful collection of curtains! Designed to enhance any room, our curtains come in a variety of colors, patterns, and fabrics to suit your unique taste and decor.",
+        "brand": "Habbit",
+        "image": "../../../public/img/CURTAINS/C2.PNG"
+    },
+    {
+        "id": 75,
+        "type": "Decor",
+        "title": "Curtains",
+        "price": "$3000",
+        "description": "Elevate your home's style and ambiance with our beautiful collection of curtains! Designed to enhance any room, our curtains come in a variety of colors, patterns, and fabrics to suit your unique taste and decor.",
+        "brand": "Habbit",
+        "image": "../../../public/img/CURTAINS/C3.PNG"
+    },
+    {
+        "id": 76,
+        "type": "Decor",
+        "title": "Blinds",
+        "price": "$2000",
+        "description": "Elevate your home's style and ambiance with our beautiful collection of curtains! Designed to enhance any room, our curtains come in a variety of colors, patterns, and fabrics to suit your unique taste and decor.",
+        "brand": "Habbit",
+        "image": "../../../public/img/BLINDS/B1.PNG"
+    },
+    {
+        "id": 77,
+        "type": "Decor",
+        "title": "Blinds",
+        "price": "$8000",
+        "description": "Elevate your home's style and ambiance with our beautiful collection of curtains! Designed to enhance any room, our curtains come in a variety of colors, patterns, and fabrics to suit your unique taste and decor.",
+        "brand": "Habbit",
+        "image": "../../../public/img/BLINDS/B2.PNG"
+    },
+    {
+        "id": 78,
+        "type": "Decor",
+        "title": "Blinds",
+        "price": "$7000",
+        "description": "Elevate your home's style and ambiance with our beautiful collection of curtains! Designed to enhance any room, our curtains come in a variety of colors, patterns, and fabrics to suit your unique taste and decor.",
+        "brand": "Habbit",
+        "image": "../../../public/img/BLINDS/B3.PNG"
+    },
+    {
+        "id": 79,
+        "type": "Decor",
+        "title": "Wall Art",
+        "price": "$7000",
+        "description": "Elevate your home’s aesthetic with our stunning collection of wall art, designed to inspire and transform any space! From vibrant canvases to elegant prints, our selection features a variety of styles, themes, and sizes to suit your personal taste and decor. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/WALL ART/WA1.PNG"
+    },
+    {
+        "id": 80,
+        "type": "Decor",
+        "title": "Wall Art",
+        "price": "$2000",
+        "description": "Elevate your home’s aesthetic with our stunning collection of wall art, designed to inspire and transform any space! From vibrant canvases to elegant prints, our selection features a variety of styles, themes, and sizes to suit your personal taste and decor. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/WALL ART/WA2.PNG"
+    },
+    {
+        "id": 81,
+        "type": "Decor",
+        "title": "Wall Art",
+        "price": "$5000",
+        "description": "Elevate your home’s aesthetic with our stunning collection of wall art, designed to inspire and transform any space! From vibrant canvases to elegant prints, our selection features a variety of styles, themes, and sizes to suit your personal taste and decor. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/WALL ART/WA3.PNG"
+    },
+    {
+        "id": 82,
+        "type": "Decor",
+        "title": "Mirrors",
+        "price": "$9000",
+        "description": "Elevate your home’s aesthetic with our stunning collection of wall art, designed to inspire and transform any space! From vibrant canvases to elegant prints, our selection features a variety of styles, themes, and sizes to suit your personal taste and decor. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/MIRRORS/M1.PNG"
+    },
+    {
+        "id": 83,
+        "type": "Decor",
+        "title": "Mirrors",
+        "price": "$5000",
+        "description": "Elevate your home’s aesthetic with our stunning collection of wall art, designed to inspire and transform any space! From vibrant canvases to elegant prints, our selection features a variety of styles, themes, and sizes to suit your personal taste and decor. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/MIRRORS/M2.PNG"
+    },
+    {
+        "id": 84,
+        "type": "Decor",
+        "title": "Mirrors",
+        "price": "$9000",
+        "description": "Elevate your home’s aesthetic with our stunning collection of wall art, designed to inspire and transform any space! From vibrant canvases to elegant prints, our selection features a variety of styles, themes, and sizes to suit your personal taste and decor. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/MIRRORS/M3.PNG"
+    },
+    {
+        "id": 85,
+        "type": "Decor",
+        "title": "Cushions",
+        "price": "$5000",
+        "description": "Enhance your living space with our delightful collection of cushions, designed to add comfort and style to any room! Available in a variety of colors, patterns, and textures, our cushions are the perfect accessories to personalize your decor and create a cozy atmosphere. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/CUSHIONS/C1.PNG"
+    },
+    {
+        "id": 86,
+        "type": "Decor",
+        "title": "Cushions",
+        "price": "$4000",
+        "description": "Enhance your living space with our delightful collection of cushions, designed to add comfort and style to any room! Available in a variety of colors, patterns, and textures, our cushions are the perfect accessories to personalize your decor and create a cozy atmosphere. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/CUSHIONS/C2.PNG"
+    },
+    {
+        "id": 87,
+        "type": "Decor",
+        "title": "Cushions",
+        "price": "$6000",
+        "description": "Enhance your living space with our delightful collection of cushions, designed to add comfort and style to any room! Available in a variety of colors, patterns, and textures, our cushions are the perfect accessories to personalize your decor and create a cozy atmosphere. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/CUSHIONS/C3.PNG"
+    },
+    {
+        "id": 88,
+        "type": "Decor",
+        "title": "Throws",
+        "price": "$6000",
+        "description": "Enhance your living space with our delightful collection of cushions, designed to add comfort and style to any room! Available in a variety of colors, patterns, and textures, our cushions are the perfect accessories to personalize your decor and create a cozy atmosphere. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/THROWS/TH1.PNG"
+    },
+    {
+        "id": 89,
+        "type": "Decor",
+        "title": "Throws",
+        "price": "$9000",
+        "description": "Enhance your living space with our delightful collection of cushions, designed to add comfort and style to any room! Available in a variety of colors, patterns, and textures, our cushions are the perfect accessories to personalize your decor and create a cozy atmosphere. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/THROWS/TH2.PNG"
+    },
+    {
+        "id": 90,
+        "type": "Decor",
+        "title": "Throws",
+        "price": "$2000",
+        "description": "Enhance your living space with our delightful collection of cushions, designed to add comfort and style to any room! Available in a variety of colors, patterns, and textures, our cushions are the perfect accessories to personalize your decor and create a cozy atmosphere. ",
+        "brand": "Habbit",
+        "image": "../../../public/img/THROWS/TH3.PNG"
+    },
+    {
+        "id": 91,
+        "type": "Decor",
+        "title": "Vases",
+        "price": "$3000",
+        "description": "Elevate your home decor with our exquisite collection of vases, designed to showcase your favorite flowers or stand alone as stunning art pieces. Available in a wide range of materials, shapes, and sizes, our vases can complement any style, from sleek modern designs to rustic, handcrafted looks.",
+        "brand": "Habbit",
+        "image": "../../../public/img/VASES/V1.PNG"
+    },
+    {
+        "id": 92,
+        "type": "Decor",
+        "title": "Vases",
+        "price": "$6000",
+        "description": "Elevate your home decor with our exquisite collection of vases, designed to showcase your favorite flowers or stand alone as stunning art pieces. Available in a wide range of materials, shapes, and sizes, our vases can complement any style, from sleek modern designs to rustic, handcrafted looks.",
+        "brand": "Habbit",
+        "image": "../../../public/img/VASES/V2.PNG"
+    },
+    {
+        "id": 93,
+        "type": "Decor",
+        "title": "Vases",
+        "price": "$3000",
+        "description": "Elevate your home decor with our exquisite collection of vases, designed to showcase your favorite flowers or stand alone as stunning art pieces. Available in a wide range of materials, shapes, and sizes, our vases can complement any style, from sleek modern designs to rustic, handcrafted looks.",
+        "brand": "Habbit",
+        "image": "../../../public/img/VASES/V3.PNG"
+    },
+    {
+        "id": 94,
+        "type": "Decor",
+        "title": "Plant Pots",
+        "price": "$2000",
+        "description": "Elevate your home decor with our exquisite collection of vases, designed to showcase your favorite flowers or stand alone as stunning art pieces. Available in a wide range of materials, shapes, and sizes, our vases can complement any style, from sleek modern designs to rustic, handcrafted looks.",
+        "brand": "Habbit",
+        "image": "../../../public/img/PLANT POTS/P1.PNG"
+    },
+    {
+        "id": 95,
+        "type": "Decor",
+        "title": "Plant Pots",
+        "price": "$9000",
+        "description": "Elevate your home decor with our exquisite collection of vases, designed to showcase your favorite flowers or stand alone as stunning art pieces. Available in a wide range of materials, shapes, and sizes, our vases can complement any style, from sleek modern designs to rustic, handcrafted looks.",
+        "brand": "Habbit",
+        "image": "../../../public/img/PLANT POTS/P2.PNG"
+    },
+    {
+        "id": 96,
+        "type": "Decor",
+        "title": "Plant Pots",
+        "price": "$6000",
+        "description": "Elevate your home decor with our exquisite collection of vases, designed to showcase your favorite flowers or stand alone as stunning art pieces. Available in a wide range of materials, shapes, and sizes, our vases can complement any style, from sleek modern designs to rustic, handcrafted looks.",
+        "brand": "Habbit",
+        "image": "../../../public/img/PLANT POTS/P3.PNG"
+    },
+    {
+        "id": 97,
+        "type": "kitchen",
+        "title": "Cabinets",
+        "price": "$6000",
+        "description": "Kitchen cabinets are essential components of any culinary space, blending functionality with style to create an efficient and inviting environment. Available in a variety of materials, finishes, and designs, they can enhance the aesthetic of your kitchen, whether you prefer a sleek modern look or a classic, rustic charm. ",
+        "brand": "Domino",
+        "image": "../../../public/img/cabinets (1).jpeg"
+    },
+    {
+        "id": 98,
+        "type": "kitchen",
+        "title": "Cabinets",
+        "price": "$4000",
+        "description": "Kitchen cabinets are essential components of any culinary space, blending functionality with style to create an efficient and inviting environment. Available in a variety of materials, finishes, and designs, they can enhance the aesthetic of your kitchen, whether you prefer a sleek modern look or a classic, rustic charm. ",
+        "brand": "Domino",
+        "image": "../../../public/img/cabinets (2).jpeg"
+    },
+    {
+        "id": 99,
+        "type": "kitchen",
+        "title": "Cabinets",
+        "price": "$3000",
+        "description": "Kitchen cabinets are essential components of any culinary space, blending functionality with style to create an efficient and inviting environment. Available in a variety of materials, finishes, and designs, they can enhance the aesthetic of your kitchen, whether you prefer a sleek modern look or a classic, rustic charm. ",
+        "brand": "Domino",
+        "image": "../../../public/img/cabinets (3).jpeg"
+    },
+    {
+        "id": 100,
+        "type": "kitchen",
+        "title": "Pantries",
+        "price": "$9000",
+        "description": "Kitchen cabinets are essential components of any culinary space, blending functionality with style to create an efficient and inviting environment. Available in a variety of materials, finishes, and designs, they can enhance the aesthetic of your kitchen, whether you prefer a sleek modern look or a classic, rustic charm. ",
+        "brand": "Domino",
+        "image": "../../../public/img/cabinets (4).jpeg"
+    },
+    {
+        "id": 101,
+        "type": "kitchen",
+        "title": "Pantries",
+        "price": "$3000",
+        "description": "Kitchen cabinets are essential components of any culinary space, blending functionality with style to create an efficient and inviting environment. Available in a variety of materials, finishes, and designs, they can enhance the aesthetic of your kitchen, whether you prefer a sleek modern look or a classic, rustic charm. ",
+        "brand": "Domino",
+        "image": "../../../public/img/cabinets (5).jpeg"
+    },
+    {
+        "id": 102,
+        "type": "kitchen",
+        "title": "Pantries",
+        "price": "$5000",
+        "description": "Kitchen cabinets are essential components of any culinary space, blending functionality with style to create an efficient and inviting environment. Available in a variety of materials, finishes, and designs, they can enhance the aesthetic of your kitchen, whether you prefer a sleek modern look or a classic, rustic charm. ",
+        "brand": "Domino",
+        "image": "../../../public/img/cabinets (5).jpeg"
+    },
+    {
+        "id": 103,
+        "type": "kitchen",
+        "title": "Countertops",
+        "price": "$1000",
+        "description": "Countertops are a crucial element of any kitchen or bathroom, serving as both functional workspaces and stylish focal points. Available in a variety of materials—including granite, quartz, marble, and laminate—countertops can complement any decor style, from modern chic to classic elegance.",
+        "brand": "Domino",
+        "image": "../../../public/img/counter-top/ct1.png"
+    },
+    {
+        "id": 104,
+        "type": "kitchen",
+        "title": "Countertops",
+        "price": "$5000",
+        "description": "Countertops are a crucial element of any kitchen or bathroom, serving as both functional workspaces and stylish focal points. Available in a variety of materials—including granite, quartz, marble, and laminate—countertops can complement any decor style, from modern chic to classic elegance.",
+        "brand": "Domino",
+        "image": "../../../public/img/counter-top/C2.png"
+    },
+    {
+        "id": 105,
+        "type": "kitchen",
+        "title": "Countertops",
+        "price": "$3000",
+        "description": "Countertops are a crucial element of any kitchen or bathroom, serving as both functional workspaces and stylish focal points. Available in a variety of materials—including granite, quartz, marble, and laminate—countertops can complement any decor style, from modern chic to classic elegance.",
+        "brand": "Domino",
+        "image": "../../../public/img/counter-top/ct4.png"
+    },
+    {
+        "id": 106,
+        "type": "kitchen",
+        "title": "Countertops",
+        "price": "$2000",
+        "description": "Countertops are a crucial element of any kitchen or bathroom, serving as both functional workspaces and stylish focal points. Available in a variety of materials—including granite, quartz, marble, and laminate—countertops can complement any decor style, from modern chic to classic elegance.",
+        "brand": "Domino",
+        "image": "../../../public/img/counter-top/ct5.png"
+    },
+    {
+        "id": 107,
+        "type": "kitchen",
+        "title": "Countertops",
+        "price": "$5000",
+        "description": "Countertops are a crucial element of any kitchen or bathroom, serving as both functional workspaces and stylish focal points. Available in a variety of materials—including granite, quartz, marble, and laminate—countertops can complement any decor style, from modern chic to classic elegance.",
+        "brand": "Domino",
+        "image": "../../../public/img/counter-top/ct3png.jfif"
+    },
+    {
+        "id": 109,
+        "type": "kitchen",
+        "title": "Sinks",
+        "price": "$5000",
+        "description": "Sinks are essential fixtures in kitchens and bathrooms, combining practicality with style to enhance the functionality of these spaces. Available in a variety of materials—such as stainless steel, porcelain, and composite—sinks come in numerous styles and sizes to suit any decor, from sleek modern designs to classic farmhouse looks. ",
+        "brand": "Domino",
+        "image": "../../../public/img/sink/S1.PNG"
+    },
+    {
+        "id": 110,
+        "type": "kitchen",
+        "title": "Sinks",
+        "price": "$7000",
+        "description": "Sinks are essential fixtures in kitchens and bathrooms, combining practicality with style to enhance the functionality of these spaces. Available in a variety of materials—such as stainless steel, porcelain, and composite—sinks come in numerous styles and sizes to suit any decor, from sleek modern designs to classic farmhouse looks. ",
+        "brand": "Domino",
+        "image": "../../../public/img/sink/S2.PNG"
+    },
+    {
+        "id": 111,
+        "type": "kitchen",
+        "title": "Sinks",
+        "price": "$7000",
+        "description": "Sinks are essential fixtures in kitchens and bathrooms, combining practicality with style to enhance the functionality of these spaces. Available in a variety of materials—such as stainless steel, porcelain, and composite—sinks come in numerous styles and sizes to suit any decor, from sleek modern designs to classic farmhouse looks. ",
+        "brand": "Domino",
+        "image": "../../../public/img/sink/S3.PNG"
+    },
+    {
+        "id": 112,
+        "type": "kitchen",
+        "title": "Faucets",
+        "price": "$2000",
+        "description": "Sinks are essential fixtures in kitchens and bathrooms, combining practicality with style to enhance the functionality of these spaces. Available in a variety of materials—such as stainless steel, porcelain, and composite—sinks come in numerous styles and sizes to suit any decor, from sleek modern designs to classic farmhouse looks. ",
+        "brand": "Domino",
+        "image": "../../../public/img/faucets/kf1.png"
+    },
+    {
+        "id": 113,
+        "type": "kitchen",
+        "title": "Faucets",
+        "price": "$9000",
+        "description": "Sinks are essential fixtures in kitchens and bathrooms, combining practicality with style to enhance the functionality of these spaces. Available in a variety of materials—such as stainless steel, porcelain, and composite—sinks come in numerous styles and sizes to suit any decor, from sleek modern designs to classic farmhouse looks. ",
+        "brand": "Domino",
+        "image": "../../../public/img/faucets/kf2.png"
+    },
+    {
+        "id": 114,
+        "type": "kitchen",
+        "title": "Faucets",
+        "price": "$2000",
+        "description": "Sinks are essential fixtures in kitchens and bathrooms, combining practicality with style to enhance the functionality of these spaces. Available in a variety of materials—such as stainless steel, porcelain, and composite—sinks come in numerous styles and sizes to suit any decor, from sleek modern designs to classic farmhouse looks. ",
+        "brand": "Domino",
+        "image": "../../../public/img/faucets/kf3.png"
+    },
+    {
+        "id": 115,
+        "type": "kitchen",
+        "title": "Kitchen Islands and Carts",
+        "price": "$9000",
+        "description": "Kitchen islands are versatile and functional focal points that can significantly enhance the usability and aesthetics of your kitchen. Serving as additional workspace for meal preparation, cooking, and entertaining, they provide ample counter space that's perfect for gathering with family and friends.",
+        "brand": "Domino",
+        "image": "../../../public/img/CARPETS/CARPET1.PNG"
+    },
+    {
+        "id": 116,
+        "type": "kitchen",
+        "title": "Kitchen Islands and Carts",
+        "price": "$7000",
+        "description": "Kitchen islands are versatile and functional focal points that can significantly enhance the usability and aesthetics of your kitchen. Serving as additional workspace for meal preparation, cooking, and entertaining, they provide ample counter space that's perfect for gathering with family and friends.",
+        "brand": "Domino",
+        "image": "../../../public/img/cabinets (1).jpeg"
+    },
+    {
+        "id": 117,
+        "type": "kitchen",
+        "title": "Kitchen Islands and Carts",
+        "price": "$2000",
+        "description": "Kitchen islands are versatile and functional focal points that can significantly enhance the usability and aesthetics of your kitchen. Serving as additional workspace for meal preparation, cooking, and entertaining, they provide ample counter space that's perfect for gathering with family and friends.",
+        "brand": "Domino",
+        "image": "../../../public/img/cabinets (3).jpeg"
+    },
+    {
+        "id": 118,
+        "type": "kitchen",
+        "title": "Kitchen Islands and Carts",
+        "price": "$8000",
+        "description": "Kitchen islands are versatile and functional focal points that can significantly enhance the usability and aesthetics of your kitchen. Serving as additional workspace for meal preparation, cooking, and entertaining, they provide ample counter space that's perfect for gathering with family and friends.",
+        "brand": "Domino",
+        "image": "../../../public/img/B-cabinet/C 1.webp"
+    },
+    {
+        "id": 119,
+        "type": "kitchen",
+        "title": "Kitchen Islands and Carts",
+        "price": "$4000",
+        "description": "Kitchen islands are versatile and functional focal points that can significantly enhance the usability and aesthetics of your kitchen. Serving as additional workspace for meal preparation, cooking, and entertaining, they provide ample counter space that's perfect for gathering with family and friends.",
+        "brand": "Domino",
+        "image": "../../../public/img/backsplashes/BS5.PNG"
+    },
+    {
+        "id": 120,
+        "type": "kitchen",
+        "title": "Kitchen Islands and Carts",
+        "price": "$9000",
+        "description": "Kitchen islands are versatile and functional focal points that can significantly enhance the usability and aesthetics of your kitchen. Serving as additional workspace for meal preparation, cooking, and entertaining, they provide ample counter space that's perfect for gathering with family and friends.",
+        "brand": "Domino",
+        "image": "../../../public/img/B-cabinet/C 3.jpg"
+    },
+    {
+        "id": 121,
+        "type": "kitchen",
+        "title": "Backsplashes",
+        "price": "$8000",
+        "description": "Backsplashes are a stunning and functional design element that can transform the look of your kitchen or bathroom. Acting as a protective barrier against splashes and stains, they also serve as a focal point that enhances the overall aesthetic of the space. ",
+        "brand": "Domino",
+        "image": "../../../public/img/backsplashes/BS1.PNG"
+    },
+    {
+        "id": 122,
+        "type": "kitchen",
+        "title": "Backsplashes",
+        "price": "$4000",
+        "description": "Backsplashes are a stunning and functional design element that can transform the look of your kitchen or bathroom. Acting as a protective barrier against splashes and stains, they also serve as a focal point that enhances the overall aesthetic of the space. ",
+        "brand": "Domino",
+        "image": "../../../public/img/backsplashes/BS2.PNG"
+    },
+    {
+        "id": 123,
+        "type": "kitchen",
+        "title": "Backsplashes",
+        "price": "$8000",
+        "description": "Backsplashes are a stunning and functional design element that can transform the look of your kitchen or bathroom. Acting as a protective barrier against splashes and stains, they also serve as a focal point that enhances the overall aesthetic of the space. ",
+        "brand": "Domino",
+        "image": "../../../public/img/backsplashes/BS3.PNG"
+    },
+    {
+        "id": 124,
+        "type": "kitchen",
+        "title": "Backsplashes",
+        "price": "$2000",
+        "description": "Backsplashes are a stunning and functional design element that can transform the look of your kitchen or bathroom. Acting as a protective barrier against splashes and stains, they also serve as a focal point that enhances the overall aesthetic of the space. ",
+        "brand": "Domino",
+        "image": "../../../public/img/backsplashes/BS4.PNG"
+    },
+    {
+        "id": 125,
+        "type": "kitchen",
+        "title": "Backsplashes",
+        "price": "$4000",
+        "description": "Backsplashes are a stunning and functional design element that can transform the look of your kitchen or bathroom. Acting as a protective barrier against splashes and stains, they also serve as a focal point that enhances the overall aesthetic of the space. ",
+        "brand": "Domino",
+        "image": "../../../public/img/backsplashes/BS5.PNG"
+    },
+    {
+        "id": 127,
+        "type": "Bathroom",
+        "title": "Vanities",
+        "price": "$9000",
+        "description": "Vanities are essential elements in any bathroom, combining style and functionality to create a personalized space for daily routines. Available in a variety of designs, materials, and sizes, vanities can transform your bathroom's aesthetic, whether you prefer a sleek modern look or a classic, traditional style.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Vanities/B 1.jpg"
+    },
+    {
+        "id": 128,
+        "type": "Bathroom",
+        "title": "Vanities",
+        "price": "$6000",
+        "description": "Vanities are essential elements in any bathroom, combining style and functionality to create a personalized space for daily routines. Available in a variety of designs, materials, and sizes, vanities can transform your bathroom's aesthetic, whether you prefer a sleek modern look or a classic, traditional style.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Vanities/B 2.jpg"
+    },
+    {
+        "id": 129,
+        "type": "Bathroom",
+        "title": "Vanities",
+        "price": "$7000",
+        "description": "Vanities are essential elements in any bathroom, combining style and functionality to create a personalized space for daily routines. Available in a variety of designs, materials, and sizes, vanities can transform your bathroom's aesthetic, whether you prefer a sleek modern look or a classic, traditional style.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Vanities/B 3.jpg"
+    },
+    {
+        "id": 130,
+        "type": "Bathroom",
+        "title": "Cabinets",
+        "price": "$3000",
+        "description": "Vanities are essential elements in any bathroom, combining style and functionality to create a personalized space for daily routines. Available in a variety of designs, materials, and sizes, vanities can transform your bathroom's aesthetic, whether you prefer a sleek modern look or a classic, traditional style.",
+        "brand": "Hindware",
+        "image": "../../../public/img/B-cabinet/C 1.webp"
+    },
+    {
+        "id": 131,
+        "type": "Bathroom",
+        "title": "Cabinets",
+        "price": "$5000",
+        "description": "Vanities are essential elements in any bathroom, combining style and functionality to create a personalized space for daily routines. Available in a variety of designs, materials, and sizes, vanities can transform your bathroom's aesthetic, whether you prefer a sleek modern look or a classic, traditional style.",
+        "brand": "Hindware",
+        "image": "../../../public/img/B-cabinet/C 2.jpg"
+    },
+    {
+        "id": 132,
+        "type": "Bathroom",
+        "title": "Cabinets",
+        "price": "$3000",
+        "description": "Vanities are essential elements in any bathroom, combining style and functionality to create a personalized space for daily routines. Available in a variety of designs, materials, and sizes, vanities can transform your bathroom's aesthetic, whether you prefer a sleek modern look or a classic, traditional style.",
+        "brand": "Hindware",
+        "image": "../../../public/img/B-cabinet/C 3.jpg"
+    },
+    {
+        "id": 133,
+        "type": "Bathroom",
+        "title": "Showers",
+        "price": "$6000",
+        "description": "Showers are essential components of modern bathrooms, providing a refreshing and invigorating way to start or end your day. Available in a variety of styles, sizes, and features, they can range from compact, space-saving designs to luxurious walk-in units that create a spa-like atmosphere.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Showers/S 2.jpg"
+    },
+    {
+        "id": 134,
+        "type": "Bathroom",
+        "title": "Showers",
+        "price": "$7000",
+        "description": "Showers are essential components of modern bathrooms, providing a refreshing and invigorating way to start or end your day. Available in a variety of styles, sizes, and features, they can range from compact, space-saving designs to luxurious walk-in units that create a spa-like atmosphere.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Showers/S 3.jpg"
+    },
+    {
+        "id": 135,
+        "type": "Bathroom",
+        "title": "Showers",
+        "price": "$3000",
+        "description": "Showers are essential components of modern bathrooms, providing a refreshing and invigorating way to start or end your day. Available in a variety of styles, sizes, and features, they can range from compact, space-saving designs to luxurious walk-in units that create a spa-like atmosphere.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Showers/S 4.jpg"
+    },
+    {
+        "id": 136,
+        "type": "Bathroom",
+        "title": "Bathtubs",
+        "price": "$2000",
+        "description": "Showers are essential components of modern bathrooms, providing a refreshing and invigorating way to start or end your day. Available in a variety of styles, sizes, and features, they can range from compact, space-saving designs to luxurious walk-in units that create a spa-like atmosphere.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bathroom/B 1.jpg"
+    },
+    {
+        "id": 137,
+        "type": "Bathroom",
+        "title": "Bathtubs",
+        "price": "$2000",
+        "description": "Showers are essential components of modern bathrooms, providing a refreshing and invigorating way to start or end your day. Available in a variety of styles, sizes, and features, they can range from compact, space-saving designs to luxurious walk-in units that create a spa-like atmosphere.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bathroom/B 2.jpg"
+    },
+    {
+        "id": 138,
+        "type": "Bathroom",
+        "title": "Bathtubs",
+        "price": "$9000",
+        "description": "Showers are essential components of modern bathrooms, providing a refreshing and invigorating way to start or end your day. Available in a variety of styles, sizes, and features, they can range from compact, space-saving designs to luxurious walk-in units that create a spa-like atmosphere.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bathroom/B 3.jpg"
+    },
+    {
+        "id": 139,
+        "type": "Bathroom",
+        "title": "Toilets",
+        "price": "$3000",
+        "description": "Toilets are essential fixtures in every bathroom, combining functionality and comfort to enhance your daily routine. Available in a variety of styles, including compact, elongated, and dual-flush designs, modern toilets cater to diverse preferences and bathroom sizes. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/Toilets/T 1.jpg"
+    },
+    {
+        "id": 140,
+        "type": "Bathroom",
+        "title": "Toilets",
+        "price": "$5000",
+        "description": "Toilets are essential fixtures in every bathroom, combining functionality and comfort to enhance your daily routine. Available in a variety of styles, including compact, elongated, and dual-flush designs, modern toilets cater to diverse preferences and bathroom sizes. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/Toilets/T 2.jpg"
+    },
+    {
+        "id": 141,
+        "type": "Bathroom",
+        "title": "Toilets",
+        "price": "$5000",
+        "description": "Toilets are essential fixtures in every bathroom, combining functionality and comfort to enhance your daily routine. Available in a variety of styles, including compact, elongated, and dual-flush designs, modern toilets cater to diverse preferences and bathroom sizes. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/Toilets/T 3.jpg"
+    },
+    {
+        "id": 142,
+        "type": "Bathroom",
+        "title": "Bidets",
+        "price": "$4000",
+        "description": "Toilets are essential fixtures in every bathroom, combining functionality and comfort to enhance your daily routine. Available in a variety of styles, including compact, elongated, and dual-flush designs, modern toilets cater to diverse preferences and bathroom sizes. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bidets/B 1.jpg"
+    },
+    {
+        "id": 143,
+        "type": "Bathroom",
+        "title": "Bidets",
+        "price": "$9000",
+        "description": "Toilets are essential fixtures in every bathroom, combining functionality and comfort to enhance your daily routine. Available in a variety of styles, including compact, elongated, and dual-flush designs, modern toilets cater to diverse preferences and bathroom sizes. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bidets/B 2.jpg"
+    },
+    {
+        "id": 144,
+        "type": "Bathroom",
+        "title": "Bidets",
+        "price": "$8000",
+        "description": "Toilets are essential fixtures in every bathroom, combining functionality and comfort to enhance your daily routine. Available in a variety of styles, including compact, elongated, and dual-flush designs, modern toilets cater to diverse preferences and bathroom sizes. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bidets/B 3.jpg"
+    },
+    {
+        "id": 145,
+        "type": "Bathroom",
+        "title": "Bathroom Sinks",
+        "price": "$7000",
+        "description": "Bathroom sinks are essential fixtures that blend functionality with style, serving as focal points in any bathroom design. Available in a wide array of styles, including pedestal, drop-in, undermount, and vessel sinks, they can complement various aesthetics—from modern and sleek to classic and ornate.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bathroom Sinks/BS 1.jpg"
+    },
+    {
+        "id": 146,
+        "type": "Bathroom",
+        "title": "Bathroom Sinks",
+        "price": "$3000",
+        "description": "Bathroom sinks are essential fixtures that blend functionality with style, serving as focal points in any bathroom design. Available in a wide array of styles, including pedestal, drop-in, undermount, and vessel sinks, they can complement various aesthetics—from modern and sleek to classic and ornate.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bathroom Sinks/BS 2.jpg"
+    },
+    {
+        "id": 147,
+        "type": "Bathroom",
+        "title": "Bathroom Sinks",
+        "price": "$5000",
+        "description": "Bathroom sinks are essential fixtures that blend functionality with style, serving as focal points in any bathroom design. Available in a wide array of styles, including pedestal, drop-in, undermount, and vessel sinks, they can complement various aesthetics—from modern and sleek to classic and ornate.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bathroom Sinks/BS 3.jpg"
+    },
+    {
+        "id": 148,
+        "type": "Bathroom",
+        "title": "Bathroom Sinks",
+        "price": "$5000",
+        "description": "Bathroom sinks are essential fixtures that blend functionality with style, serving as focal points in any bathroom design. Available in a wide array of styles, including pedestal, drop-in, undermount, and vessel sinks, they can complement various aesthetics—from modern and sleek to classic and ornate.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bathroom Sinks/BS 4.jpg"
+    },
+    {
+        "id": 149,
+        "type": "Bathroom",
+        "title": "Bathroom Sinks",
+        "price": "$8000",
+        "description": "Bathroom sinks are essential fixtures that blend functionality with style, serving as focal points in any bathroom design. Available in a wide array of styles, including pedestal, drop-in, undermount, and vessel sinks, they can complement various aesthetics—from modern and sleek to classic and ornate.",
+        "brand": "Hindware",
+        "image": "../../../public/img/Bathroom Sinks/BS 5.jpg"
+    },
+    {
+        "id": 151,
+        "type": "Bathroom",
+        "title": "Mirror",
+        "price": "$6000",
+        "description": "Bathroom mirrors are essential elements that enhance both functionality and style in your space. Serving as practical tools for daily grooming routines, they also create the illusion of a larger area, making smaller bathrooms feel more open and inviting. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/MIRRORS/M1.PNG"
+    },
+    {
+        "id": 152,
+        "type": "Bathroom",
+        "title": "Mirror",
+        "price": "$8000",
+        "description": "Bathroom mirrors are essential elements that enhance both functionality and style in your space. Serving as practical tools for daily grooming routines, they also create the illusion of a larger area, making smaller bathrooms feel more open and inviting. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/MIRRORS/M2.PNG"
+    },
+    {
+        "id": 153,
+        "type": "Bathroom",
+        "title": "Mirror",
+        "newArrival": "new",
+        "price": "$4000",
+        "description": "Bathroom mirrors are essential elements that enhance both functionality and style in your space. Serving as practical tools for daily grooming routines, they also create the illusion of a larger area, making smaller bathrooms feel more open and inviting. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/MIRRORS/M3.PNG"
+    },
+    {
+        "id": 154,
+        "type": "Bathroom",
+        "title": "Medicine Cabinets",
+        "newArrival": "new",
+        "price": "$3000",
+        "description": "Bathroom mirrors are essential elements that enhance both functionality and style in your space. Serving as practical tools for daily grooming routines, they also create the illusion of a larger area, making smaller bathrooms feel more open and inviting. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/Medicine Cabinets/MC 1.jpg"
+    },
+    {
+        "id": 155,
+        "type": "Bathroom",
+        "title": "Medicine Cabinets",
+        "price": "$7000",
+        "description": "Bathroom mirrors are essential elements that enhance both functionality and style in your space. Serving as practical tools for daily grooming routines, they also create the illusion of a larger area, making smaller bathrooms feel more open and inviting. ",
+        "brand": "Hindware",
+        "image": "../../../public/img/Medicine Cabinets/MC 2.jpg"
+    }
+]

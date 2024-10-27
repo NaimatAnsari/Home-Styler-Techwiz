@@ -1,0 +1,128 @@
+ [
+    {
+        "id": "0",
+        "pagename": "furniture",
+        "subcatagory": "Sofas & Couches"
+    },
+    {
+        "id": "1",
+        "pagename": "furniture",
+        "subcatagory": "Chairs & Recliners"
+    },
+    {
+        "id": "2",
+        "pagename": "furniture",
+        "subcatagory": "Tables"
+    },
+    {
+        "id": "3",
+        "pagename": "furniture",
+        "subcatagory": "Beds & Mattresses"
+    },
+    {
+        "id": "4",
+        "pagename": "furniture",
+        "subcatagory": "Cabinets, Shelves, Dressers"
+    },
+    {
+        "id": "5",
+        "pagename": "Lighting",
+        "subcatagory": "Ceiling Lights"
+    },
+    {
+        "id": "6",
+        "pagename": "Lighting",
+        "subcatagory": "Wall Lights"
+    },
+    {
+        "id": "7",
+        "pagename": "Lighting",
+        "subcatagory": "Floor Lamps"
+    },
+    {
+        "id": "8",
+        "pagename": "Lighting",
+        "subcatagory": "Table Lamps"
+    },
+    {
+        "id": "9",
+        "pagename": "Lighting",
+        "subcatagory": "Outdoor Lighting"
+    },
+    {
+        "id": "10",
+        "pagename": "Decor",
+        "subcatagory": "Rugs & Carpets"
+    },
+    {
+        "id": "11",
+        "pagename": "Decor",
+        "subcatagory": "Curtains & Blinds"
+    },
+    {
+        "id": "12",
+        "pagename": "Decor",
+        "subcatagory": "Wall Art & Mirrors"
+    },
+    {
+        "id": "13",
+        "pagename": "Decor",
+        "subcatagory": "Cushion & Throws"
+    },
+    {
+        "id": "14",
+        "pagename": "Decor",
+        "subcatagory": "Vases & Plant Pots"
+    },
+    {
+        "id": "15",
+        "pagename": "Kitchen",
+        "subcatagory": "Cabinets & Pantries"
+    },
+    {
+        "id": "16",
+        "pagename": "Kitchen",
+        "subcatagory": "Countertops"
+    },
+    {
+        "id": "17",
+        "pagename": "Kitchen",
+        "subcatagory": "Sinks And Faucets"
+    },
+    {
+        "id": "18",
+        "pagename": "Kitchen",
+        "subcatagory": "Kitchen Island & Carts"
+    },
+    {
+        "id": "19",
+        "pagename": "Kitchen",
+        "subcatagory": "Backsplashes"
+    },
+    {
+        "id": "20",
+        "pagename": "Bathroom",
+        "subcatagory": "Vanities & Cabinets"
+    },
+    {
+        "id": "21",
+        "pagename": "Bathroom",
+        "subcatagory": "Showers & Bathtubs"
+    },
+    {
+        "id": "22",
+        "pagename": "Bathroom",
+        "subcatagory": "Toilets & Bidets"
+    },
+    {
+        "id": "23",
+        "pagename": "Bathroom",
+        "subcatagory": "Bathroom Sinks"
+    },
+    {
+        "id": "24",
+        "pagename": "Bathroom",
+        "subcatagory": "Mirrors & Medicine Cabinets"
+    }
+
+]
