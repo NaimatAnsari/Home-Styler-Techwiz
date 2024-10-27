@@ -49,15 +49,15 @@ function Kitchen() {
             </nav>
           </div>
         </div>
-        <div className="row ">
-          <div className="col-md-4 col-lg-3 d-flex gap-3" style={{height:"20%"}}>
+        <div className="row d-flex justify-content-center ">
+          <div className="col-md-4 col-lg-3 d-flex gap-3 py-3" style={{height:"20%"}}>
             <h3 className='ps-md-3'>Sorting</h3>
             <select onChange={(e) => setSortOrder(e.target.value)}>
               <option value="asc">Price: Low to High</option>
               <option value="desc">Price: High to Low</option>
             </select>
           </div>
-          <div className="col-md-4 col-lg-5  d-flex gap-3 mb-3">
+          <div className="col-md-4 col-lg-5  d-flex gap-3 py-3">
             <h3>Categories</h3>
             <select onChange={(e) => setSelectedCategory(e.target.value)} className='w-50 py-1'>
               <option value="">Select a category</option>
@@ -66,9 +66,9 @@ function Kitchen() {
               ))}
             </select>
           </div>
-          <div className="col-md-4 col-sm-12 mb-3">
+          <div className="col-md-4 col-sm-12 py-3">
             <input 
-              className='w-100 p-1' 
+              className='w-75 p-1' 
               type="text" 
               placeholder='Search' 
               value={searchTerm}

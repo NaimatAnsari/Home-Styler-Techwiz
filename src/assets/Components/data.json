@@ -228,7 +228,7 @@
         "price": "$9000",
         "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
         "brand": "Habbit",
-        "image": "../../../public/assets/image/mettress (1).jpeg"
+        "image": "../../../public/assets/image/beds (3).jpeg"
     },
     {
         "id": 25,
@@ -237,7 +237,7 @@
         "price": "$2000",
         "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
         "brand": "Habbit",
-        "image": "../../../public/assets/image/mettress (1).jpeg"
+        "image": "../../../public/assets/image/Medicine Cabinets/MC 1.jpg"
     },
     {
         "id": 26,
@@ -246,7 +246,7 @@
         "price": "$9000",
         "description": "Beds are fundamental pieces of furniture that provide comfort and support for a good night's sleep. Available in various styles, sizes, and materials, they cater to individual preferences and bedroom aesthetics.",
         "brand": "Habbit",
-        "image": "../../../public/assets/image/mettress (3).jpeg"
+        "image": "../../../public/assets/image/beds (2).jpeg"
     },
     {
         "id": 27,
@@ -715,7 +715,7 @@
         "price": "$7000",
         "description": "Elevate your home's style and ambiance with our beautiful collection of curtains! Designed to enhance any room, our curtains come in a variety of colors, patterns, and fabrics to suit your unique taste and decor.",
         "brand": "Habbit",
-        "image": "../../../public/assets/image/BLINDS/B3.PNG"
+        "image": "../../../public/assets/image/BLINDS/B1.PNG"
     },
     {
         "id": 79,
@@ -1264,7 +1264,7 @@
         "price": "$5000",
         "description": "Toilets are essential fixtures in every bathroom, combining functionality and comfort to enhance your daily routine. Available in a variety of styles, including compact, elongated, and dual-flush designs, modern toilets cater to diverse preferences and bathroom sizes. ",
         "brand": "Hindware",
-        "image": "../../../public/assets/image/Toilets/T 3.jpg"
+        "image": "../../../public/assets/image/Toilets/T 3.png"
     },
     {
         "id": 142,

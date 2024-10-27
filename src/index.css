@@ -1337,7 +1337,7 @@ a{
 }
 
 .image-hover img:hover {
-  transform: scale(1.05);
+  transform: scale(1.15);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
@@ -1349,4 +1349,29 @@ a{
 }
 .contact-h1{
   font-size: calc(4.375rem + 1.5vw) !important;
+}
+
+
+.scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap; /* Keeps items in a single line */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Webkit-based browsers */
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.card-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.offcanvas-backdrop.show {
+  opacity: 0;
 }

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function Card({ brand, desc, price, image, title, id }) {
   return (
     <>
-      <div className="card h-100" style={{ width: '18rem' }}>
+      <div className="card h-100" style={{ width: "18rem" }}>
         <div className="position-relative">
           <img
             src={image} className="card-img-top" alt="Product Image" />
@@ -27,8 +27,8 @@ function Card({ brand, desc, price, image, title, id }) {
           <div className="d-flex justify-content-between align-items-center">
             <span className="price">{price}</span>
             <Link to={`/detail/${id}`}>
-              <button className="btn-light btn-outline-dark rounded-2 p-1" style={{fontSize: "20px"}}>
-                <i className="fa-solid fa-cart-shopping"></i> Add to Cart</button>
+              <button className="btn-light btn-outline-dark rounded-2 p-1" style={{fontSize: "15px"}}>
+                <i className="fa-solid  fa-cart-shopping "></i> Add to Cart</button>
             </Link>
           </div>
         </div>

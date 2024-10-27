@@ -12,7 +12,7 @@ const SideMap = () => {
 
         <div className="row mt-4">
             <div className="col-md-4 category-box">
-                <NavLink to="/" className="text-dark text-decoration-none">
+                <NavLink to="/" className="text-dark text-decoration-none ">
                     Home
                 </NavLink>
             </div>
