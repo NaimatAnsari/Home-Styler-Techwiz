@@ -13,7 +13,7 @@ function Choose() {
       </div>
      </div>
   <section className="container pt-3">
-    <div className="container text-center overflow-auto">
+    <div className="container text-center scroll overflow-auto overflow-hidden">
       <div className="swiper swiper-initialized swiper-horizontal swiper-free-mode swiper-backface-hidden">
         <div className="swiper-wrapper d-flex" id="swiper-wrapper-27494181adf1835d" aria-live="off"
           >

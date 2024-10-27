@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-md bg-light navbar-light nav-shadow sticky-top">
       <div className="container">
         <NavLink className="navbar-brand ms-3" to="/">
-          <img src="./public/img/logo.png" alt="BrandLOGO" className='BrandLogo'/>
+          <img src="../../../public/assets/image/logo.png" alt="BrandLOGO" className='BrandLogo'/>
         </NavLink>
         <button className="navbar-toggler me-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#cnvs"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,7 +23,7 @@ const Navbar = () => {
               <NavLink className="nav-link" to="/">Home</NavLink>
             </li>
             <li className="nav-item ">
-              <NavLink className="nav-link nav-a" to="/about">About US</NavLink>
+              <NavLink className="nav-link nav-a" to="/about" >About US</NavLink>
             </li>
             {/* Products Dropdown Start  */}
             <li className="nav-item dropdown">
@@ -108,7 +108,7 @@ const Navbar = () => {
       <div className="offcanvas offcanvas-start canvas-none" id="cnvs">
         <div className="offcanvas-header border-bottom">
           <NavLink className="navbar-brand offcanvas-brand " to="#">
-            <img src="public/img/logo.png" alt="BrandLOGO" className='BrandLogo' />
+            <img src="../../../public/assets/image/logo.png" alt="BrandLOGO" className='BrandLogo' />
           </NavLink>
           <button className="btn btn-close btn-outline-light" data-bs-dismiss="offcanvas">
           </button>
@@ -119,7 +119,7 @@ const Navbar = () => {
               <NavLink className="nav-link active nav-a" aria-current="page" to="/">Home</NavLink>
             </li>
             <li className="nav-item ">
-              <NavLink className="nav-link nav-a" to="/About">About US</NavLink>
+              <NavLink className="nav-link nav-a" to="/About" >About US</NavLink>
             </li>
             <li className="nav-item dropdown">
               <NavLink className="nav-link dropdown-toggle nav-a" to="#" role="button" data-bs-toggle="dropdown"

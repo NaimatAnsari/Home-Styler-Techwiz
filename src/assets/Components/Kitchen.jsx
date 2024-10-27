@@ -49,7 +49,7 @@ function Kitchen() {
             </nav>
           </div>
         </div>
-        <div className="row">
+        <div className="row ">
           <div className="col-md-4 col-lg-3 d-flex gap-3" style={{height:"20%"}}>
             <h3 className='ps-md-3'>Sorting</h3>
             <select onChange={(e) => setSortOrder(e.target.value)}>
@@ -57,9 +57,9 @@ function Kitchen() {
               <option value="desc">Price: High to Low</option>
             </select>
           </div>
-          <div className="col-md-4 col-lg-5 d-lg-flex gap-3 mb-3">
+          <div className="col-md-4 col-lg-5  d-flex gap-3 mb-3">
             <h3>Categories</h3>
-            <select onChange={(e) => setSelectedCategory(e.target.value)} className='w-75 py-1'>
+            <select onChange={(e) => setSelectedCategory(e.target.value)} className='w-50 py-1'>
               <option value="">Select a category</option>
               {categories.map(category => (
                 <option key={category.value} value={category.value}>{category.label}</option>

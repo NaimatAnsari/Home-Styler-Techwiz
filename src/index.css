@@ -329,7 +329,7 @@ body {
 .container-image {
   width: 100%;
   height: 70vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../public/img/home\ banner.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../public/assets/image/home\ banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -380,19 +380,20 @@ h1 {
   letter-spacing: 2px;
 }
 
-.banner-content button {
+.banner-content .main-btn2 {
   width: 120px;
   height: 50px;
   font-size: 18px;
   font-weight: 600;
   background-color: var(--primary-color);
   color: #fff;
+  background-color: #000;
   border: 2px solid var(--primary-color);
   border-radius: 10px;
   transition: 0.3s ease;
 }
 
-.banner-content button:hover {
+.banner-content .main-btn2:hover {
   background-color: transparent;
   color: #fff;
   border: 2px solid #fff;
@@ -1323,3 +1324,29 @@ a{
 }
 
 /* SiteMap End */
+
+.image-hover {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.image-hover img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.image-hover img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.bxs-star{
+  color: #f39c12;
+}
+.page-h1{
+  font-size: calc(5.375rem + 1.5vw) !important;
+}
+.contact-h1{
+  font-size: calc(4.375rem + 1.5vw) !important;
+}

@@ -5,11 +5,11 @@ const About = () => {
     <>
       <section className='about-banner'>
         <div className="container text-center text-white">
-          <h1 className="main-h1">About Us</h1>
+          <h1 className='page-h1'>About Us</h1>
           <h4>Welcome to Home Styler, your go-to destination for stylish home decor</h4>
         </div>
       </section>
-      <div className="container-fluid">
+      <div className="container">
         <div className="container py-5">
           <div className="row">
 
@@ -19,13 +19,13 @@ const About = () => {
                 <b>HomeStyler</b> is an intuitive, web-based interior design platform that empowers users to create and visualize beautiful spaces in 2D and 3D. With a vast library of furniture, decor, and fixtures, users can explore endless design possibilities for their homes, offices, or other spaces. The platform's easy-to-use drag-and-drop interface allows anyone—from homeowners to professionals—to design, plan, and customize interiors without prior experience. HomeStyler offers realistic 3D renderings, enabling users to see their designs come to life before making real-world changes. Whether you're looking to remodel a room or design from scratch, HomeStyler simplifies the process. Its community of users and professionals share designs, ideas, and inspiration. Trusted by millions, HomeStyler is your go-to tool for all things interior design. </p>
             </div>
             <div className="col-md-12 col-lg-6 col-sm-12 col-12 px-5">
-              <img className='w-100 py-3' src="../public/img/Aboutimg.jpg" alt="" />
+              <img className='w-100 py-3 rounded-5' src="../../../public/assets/image/Aboutimg.jpg" alt="" />
             </div>
           </div>
 
           <div className="row py-5 flex-column-reverse flex-md-row flex-lg-row">
             <div className="col-md-6 col-lg-6 col-sm-12 col-12 ">
-              <img src="../public/img/ourvision.png" alt="" className='w-100 ' />
+              <img src="../../../public/assets/image/ourvision.png" alt="" className='w-100 rounded-5' />
             </div>
             <div className="col-md-6 col-lg-6 col-sm-12 col-12 ">
 
@@ -38,18 +38,27 @@ const About = () => {
           </div>
 
           <div className="row">
+          
 
+            <div className="col-md-6 col-lg-6 col-sm-12 col-12 mt-5 ">
 
-            <h3 className="fs-1 fw-bolder text-center">Our Mission</h3>
-            <p className='text-center px-5'>
-              At Home Styler, our mission is simple yet profound:
+<h3 className="fs-1 fw-bolder ">Our Mission</h3>
+<p>
+At Home Styler, our mission is simple yet profound:
               To inspire and empower individuals to create beautiful, personalized living spaces with ease and confidence.
-              We believe that everyone deserves a home that reflects their unique style and personality. That's why we provide accessible, intuitive design tools that make it easy for anyone—whether a homeowner, designer, or enthusiast—to visualize, plan, and transform their space. Through innovation and creativity, we aim to revolutionize the way people approach interior design, offering inspiration and professional-quality results at their fingertips.              </p>
+              We believe that everyone deserves a home that reflects their unique style and personality. That's why we provide accessible, intuitive design tools that make it easy for anyone—whether a homeowner, designer, or enthusiast—to visualize, plan, and transform their space. Through innovation and creativity, we aim to revolutionize the way people approach interior design, offering inspiration and professional-quality results at their fingertips.
+
+</p>
+
+</div>
+<div className="col-md-6 col-lg-6 col-sm-12 col-12 ">
+              <img src="https://www.boardeffect.com/wp-content/uploads/2021/08/Crafting-a-Good-Mission-Statement-The-Essential-Elements.jpg" alt="" className='w-100  rounded-5' />
+            </div>
 
 
 
           </div>
-          <div className="row">
+          <div className="row py-5">
             <div className="col-12 py-5">
               <h3 className="fs-1 fw-bolder text-center">Customer Support Services</h3>
               <hr className="w-25 mx-auto" />

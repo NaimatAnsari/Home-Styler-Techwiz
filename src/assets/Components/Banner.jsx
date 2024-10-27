@@ -13,7 +13,7 @@ const Banner = () => {
         <p className="text-white pb-4">
           Get up to 25% off this weak and get offer <br />Don't miss
         </p>
-        <NavLink to="/Decor"><button className="main-btn2">Buy Now</button></NavLink>
+        <NavLink to="/Decor"><button className="main-btn2 ">Buy Now</button></NavLink>
       </div>
     </div>
   </section>

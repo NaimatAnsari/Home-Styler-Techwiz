@@ -43,7 +43,7 @@ const Contact = () => {
     
       <section className="contact-banner contact-ban">
         <div className="container text-center">
-          <h1 className="main-h1">Contact Us</h1>
+          <h1 className="contact-h1">Contact Us</h1>
           <h4>Connect: Your Inquiries Are Important To Us</h4>
         </div>
       </section>
@@ -74,6 +74,7 @@ const Contact = () => {
   id="email1"
   value={email}
   onChange={handleEmailChange}
+  placeholder="Enter your email"
   pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
   title="Please Enter a Valid Email Address."
   required
@@ -94,7 +95,11 @@ const Contact = () => {
   className="my-4 btn submit-btn"
   value="Send Now"
   type="submit"
-/>
+ />
+
+
+
+
 </form>
             </div>
             <div className="col-sm-12 col-md-12 col-lg-6 col-12 mx-auto align-items-center">
@@ -105,15 +110,15 @@ const Contact = () => {
               </div>
               <div className="box">
                 <i className="fa-solid fa-address-book fs-2 m-3"><b> CONTACT US</b></i>
-                <p className=" ms-3 fs-5"><strong>Email:</strong> <a className='fs-5' href="mailto:contact@jensendecors.com">contact@jensendecors.com</a></p>
+                <p className=" ms-3 fs-5"><strong>Email:</strong> <a className='fs-5' href="mailto:contact@jensendecors.com">contact@HomeStyler.com</a></p>
                 <p className=" ms-3 fs-5"><strong>Phone:</strong> <a className='fs-5' href="tel:+1234567890">+1 (234) 567-890</a></p>
               </div>
 
               <div className="box">
                 <div className="col-sm-12 col-md-12 col-lg-12 col-12">
                   <h2 className="text-center fw-bold fs-1 w-100 form-title">Follow Us</h2>
-                  <div className="social-icons d-flex justify-content-center align-items-center py-5">
-                    <a href="https://www.facebook.com/">
+                  <div className="social-icons pl-3 d-flex justify-content-center align-items-center py-5">
+                    <a href="https://www.facebook.com/" >
                     <i className="fa-brands fa-facebook fs-1" style={{ color: "#74C0FC" }}></i>
                     </a>
                     <a href="https://www.twitter.com/">

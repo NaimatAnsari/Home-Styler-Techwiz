@@ -1,11 +1,11 @@
 import React from 'react'
-import popular from '../../../public/img/sofa3.jpeg';
-import SecondImage from '../../../public/img/beds (1).jpeg';
-import ThirdImage from '../../../public/img/beds (2).jpeg';
-import ForthImage from '../../../public/img/cabinets (2).jpeg';
-import FifthImage from '../../../public/img/chairs (2).jpeg';
-import SixImage from '../../../public/img/Coffee (2).jpeg';
-import SevenImage from '../../../public/img/couches (5).jpeg';
+import popular from '../../../public/assets/image/sofa3.jpeg';
+import SecondImage from '../../../public/assets/image/beds (1).jpeg';
+import ThirdImage from '../../../public/assets/image/beds (2).jpeg';
+import ForthImage from '../../../public/assets/image/cabinets (2).jpeg';
+import FifthImage from '../../../public/assets/image/chairs (2).jpeg';
+import SixImage from '../../../public/assets/image/Coffee (2).jpeg';
+import SevenImage from '../../../public/assets/image/couches (5).jpeg';
 function Popular() {
   return (
     <div>
