@@ -1275,8 +1275,7 @@ a{
   color: #4b4b4b;
 }
 .offcanvas{
-  --bs-offcanvas-width: 350px;
-}
+  min-width: 80% !important;}
 /* React Product Detail End */
 
 /* SiteMap Start */
@@ -1375,3 +1374,4 @@ a{
 .offcanvas-backdrop.show {
   opacity: 0;
 }
+

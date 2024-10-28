@@ -6,17 +6,17 @@ const SideMap = () => {
    <>
     <div className="container sitemap-container">
   
-        <div className="sitemap-title">
+        <div className="sitemap-title shadow">
             Navigate with ease - explore our comprehensive site map to find exactly what you need!
         </div>
 
         <div className="row mt-4">
-            <div className="col-md-4 category-box">
+            <div className="col-md-4 category-box ">
                 <NavLink to="/" className="text-dark text-decoration-none ">
                     Home
                 </NavLink>
             </div>
-            <div className="col-md-4 category-box">
+            <div className="col-md-4 category-box shadow border-3">
                 <NavLink to="/furniture" className="text-dark text-decoration-none">
                     Products
                 </NavLink>
@@ -121,8 +121,8 @@ const SideMap = () => {
                     </div>
                 </div>
             </div>
-            <div className="col-md-4 category-box">
-                <NavLink to="/about" className="text-dark text-decoration-none">
+            <div className="col-md-4 category-box shadow border-3">
+                <NavLink to="/about" className="text-dark text-decoration-none ">
                     About Us
                 </NavLink>
             </div>

@@ -5,11 +5,11 @@ const HeroSection = () => {
   return (
     <>
      <section className="py-0">
-    <div className="section-bg">
+    <div className="section-bg h-100">
       <div className="container">
         <div className="row py-3">
           <div className="col-sm-12 col-md-12 col-lg-6 col-12 mt-5 px-5">
-            <h1 className="sec-h1 fw-bold">HOME STYLER</h1>
+            <h1 className="display-1 fw-bold">HOME STYLER</h1>
             <p className="sec-p mt-3">
             Home Styler is here to turn your home into a stylish, comfortable space that reflects your personal taste. From modern designs to cozy setups, our expert team works closely with you to bring your vision to life. We focus on quality, detail, and functionality, ensuring your home looks great and feels even better. Let us create a space you’ll love to live in!
             </p>
@@ -25,7 +25,7 @@ const HeroSection = () => {
                   </h2>
                   <p>Support</p>
                 </div>
-                <div className="hero-counter col m-2">
+                <div className="hero-counter col m-auto">
                   <h2>
                     <span className="digit-box" data-value="600">600</span>+
                   </h2>
@@ -42,7 +42,7 @@ const HeroSection = () => {
         
           </div>
           <div className="col-sm-12 col-md-6 col-lg-6 col-12 mt-5 text-center mx-auto">
-            <img src="../../../public/assets/image/heroProductimg.png" className="img img-fluid"/>
+            <img src="../../../public/assets/image/heroProductimg.png" className="img img-fluid shadow"/>
           </div>
         </div>
       </div>

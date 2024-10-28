@@ -9,6 +9,8 @@ function ProductDetail() {
     const findData = furnitureData.find(data=> data.id == id);
     // console.log(findData);
     
+    
+    
 
     return (
         <>
@@ -45,19 +47,24 @@ function ProductDetail() {
                             <div className="product-quantity">
                                 <div className="product-quantity-title mt-2">Qty:</div>
                                 <input
-                                    className="product-quantity-title mt-2"
-                                    style={{ width: '50px', textAlign: 'center' }}
-                                    type="number"
-                                    maxLength="1"
-                                    value="1"
-                                />
+            className="product-quantity-title mt-2"
+            style={{ width: '50px', textAlign: 'center' }}
+            type="number"
+            defaultValue={1}
+            
+        min={1}
+        max={50}
+        onInput={(e) => {
+            if (e.target.value > 50) e.target.value = 50;
+        }}
+        />
                             </div>
                             <div className="row">
                                 <div className="col-12">
                                     <button
                                         style={{ backgroundColor: 'grey' }}
                                         type="button"
-                                        className="btn w-100 mt-3 text-white"
+                                        className="btn w-100 mt-3 bg-dark  shadow-none p-2 text-white"
                                         data-bs-toggle="modal"
                                         data-bs-target="#exampleModal"
                                     >
@@ -69,9 +76,9 @@ function ProductDetail() {
                                 <div className="modal fade" id="exampleModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div className="modal-dialog">
                                         <div className="modal-content">
-                                            <div className="modal-header bg-secondary">
-                                                <h1 className="modal-title fs-5 ms-auto" id="exampleModalLabel">Your Item Has Been Ordered.</h1>
-                                                <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            <div className="modal-header bg-dark">
+                                                <h1 className="modal-title fs-5 text-white ms-auto" id="exampleModalLabel">Your Item Has Been Ordered.</h1>
+                                                <button type="button" className="btn-close btn-close-white shadow-none" data-bs-dismiss="modal" aria-label="Close"></button>
                                             </div>
                                             <div className="modal-body">
                                                 <i className="bi bi-check-circle fs-1 d-flex align-items-center justify-content-center py-3 modalIcon"></i>

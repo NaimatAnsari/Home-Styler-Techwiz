@@ -39,7 +39,7 @@ function Furniture() {
     <>
       <div className="container-lg my-5 bg-light">
         <div className="row">
-          <div className="col-12">
+          <div className="col-12 shadow border-5 p-2 pt-2">
             <nav aria-label="breadcrumb">
               <ol className="breadcrumb">
                 <li className="breadcrumb-item active"><a className='fs-6' href="">Home</a></li>
