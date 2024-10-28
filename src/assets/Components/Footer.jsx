@@ -8,7 +8,7 @@ const Footer = () => {
     <div className="container px-5 px-lg-0 pt-5">
       <div className="row">
         <div className="col-lg-3 col-sm-6 mb-5 mb-lg-0">
-          <img src="../public/assets/image/logo.png" height="55px" alt="Brand Logo" />
+          <img src="/assets/image/logo.png" height="55px" alt="Brand Logo" />
           <p className="mb-4 ps-0 company_details">
             Experience unmatched quality and lasting durability with our
             expertly crafted furniture...
