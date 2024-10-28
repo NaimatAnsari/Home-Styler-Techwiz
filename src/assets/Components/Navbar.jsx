@@ -22,7 +22,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-md bg-light navbar-light nav-shadow sticky-top">
       <div className="container">
         <NavLink className="navbar-brand ms-3" to="/">
-          <img src="../../../public/assets/image/logo.png" alt="BrandLOGO" className='BrandLogo'/>
+          <img src="/assets/image/logo.png" alt="BrandLOGO" className='BrandLogo'/>
         </NavLink>
         <button className="navbar-toggler me-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#cnvs"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -122,7 +122,7 @@ const Navbar = () => {
       <div className="offcanvas offcanvas-start canvas-none" id="cnvs" ref={offcanvasRef}>
         <div className="offcanvas-header pt-2 border-bottom shadow">
           <NavLink className="navbar-brand offcanvas-brand" to="#">
-            <img src="../../../public/assets/image/logo.png" alt="BrandLOGO" className="BrandLogo" />
+            <img src="/assets/image/logo.png" alt="BrandLOGO" className="BrandLogo" />
           </NavLink>
           <button className="btn btn-close btn-outline-white shadow-none" data-bs-dismiss="offcanvas">
           </button>

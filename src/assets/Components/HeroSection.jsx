@@ -42,7 +42,7 @@ const HeroSection = () => {
         
           </div>
           <div className="col-sm-12 col-md-6 col-lg-6 col-12 mt-5 text-center mx-auto">
-            <img src="../../../public/assets/image/heroProductimg.png" className="img img-fluid shadow"/>
+            <img src="/assets/image/heroProductimg.png" className="img img-fluid shadow"/>
           </div>
         </div>
       </div>

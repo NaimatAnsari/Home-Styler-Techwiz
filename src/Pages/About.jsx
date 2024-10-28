@@ -19,13 +19,13 @@ const About = () => {
                 <b>HomeStyler</b> is an intuitive, web-based interior design platform that empowers users to create and visualize beautiful spaces in 2D and 3D. With a vast library of furniture, decor, and fixtures, users can explore endless design possibilities for their homes, offices, or other spaces. The platform's easy-to-use drag-and-drop interface allows anyone—from homeowners to professionals—to design, plan, and customize interiors without prior experience. HomeStyler offers realistic 3D renderings, enabling users to see their designs come to life before making real-world changes. Whether you're looking to remodel a room or design from scratch, HomeStyler simplifies the process. Its community of users and professionals share designs, ideas, and inspiration. Trusted by millions, HomeStyler is your go-to tool for all things interior design. </p>
             </div>
             <div className="col-md-12 col-lg-6 col-sm-12 col-12 px-5">
-              <img className='w-100 py-3 rounded-5' src="../../../public/assets/image/Aboutimg.jpg" alt="" />
+              <img className='w-100 py-3 rounded-5' src="/assets/image/Aboutimg.jpg" alt="" />
             </div>
           </div>
 
           <div className="row py-5 flex-column-reverse flex-md-row flex-lg-row">
             <div className="col-md-6 col-lg-6 col-sm-12 col-12 ">
-              <img src="../../../public/assets/image/ourvision.png" alt="" className='w-100 rounded-5' />
+              <img src="/assets/image/ourvision.png" alt="" className='w-100 rounded-5' />
             </div>
             <div className="col-md-6 col-lg-6 col-sm-12 col-12 ">
 
