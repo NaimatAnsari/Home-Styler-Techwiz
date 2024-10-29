@@ -15,6 +15,7 @@ import Bathroom from './assets/Components/Bathroom'
 import FeedBack from './assets/Components/FeedBack'
 import ProductDetail from './assets/Components/ProductDetail'
 import SideMap from './assets/Components/SideMap'
+import ScrollTop from './assets/Components/ScrollTop'
 
 
 
@@ -23,6 +24,7 @@ const App = () => {
     <>
     <BrowserRouter>
       <Navbar/>
+      <ScrollTop/>
       <Routes>
         <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
